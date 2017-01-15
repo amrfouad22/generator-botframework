@@ -25,7 +25,7 @@ yo botframework
 
 ## License
 
-MIT © [Amr Fouad](www.twitter.com/amr_m_fouad)
+MIT © [Amr Fouad](http://www.twitter.com/amr_m_fouad)
 
 
 [npm-image]: https://badge.fury.io/js/generator-botframework.svg
