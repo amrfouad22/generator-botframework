@@ -7,7 +7,7 @@ module.exports = Generator.extend({
   prompting: function () {
     // Have Yeoman greet the user.
     this.log(yosay(
-      'Welcome to the scrumtrulescent ' + chalk.red('generator-botframework') + ' generator!'
+      'Welcome to' + chalk.red('generator-botframework') + ' generator!'
     ));
     var prompts = [
       {
