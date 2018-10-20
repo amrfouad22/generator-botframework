@@ -1,6 +1,6 @@
 {
   "name": "generator-botframework",
-  "version": "0.0.5",
+  "version": "0.0.4",
   "description": "this generator is used to generate different types of bot that utilises Microsoft botframework",
   "homepage": "",
   "author": {
