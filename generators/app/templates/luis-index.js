@@ -7,7 +7,7 @@ var connector = new builder.ChatConnector({
   appPassword: process.env.MICROSOFT_APP_PASSWORD ? process.env.MICROSOFT_APP_PASSWORD : argv.password
 });
 
-var bot = new builder.UniversalBot(connector);
+var bot = new builder.UniversalBot(connector).set('storage',new builder.MemoryBotStorage());
 // make sure to update the below value to match your luis app url
 const LuisModelUrl = '';
 

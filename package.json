@@ -1,12 +1,12 @@
 {
   "name": "generator-botframework",
-  "version": "0.0.3",
-  "description": "this generator is used to generate different types of bot which utilises Microsoft botframework",
+  "version": "0.0.4",
+  "description": "this generator is used to generate different types of bot that utilises Microsoft botframework",
   "homepage": "",
   "author": {
     "name": "Amr Fouad",
     "email": "amr.fouad@hotmail.co.uk",
-    "url": "www.twitter.com/_afouad"
+    "url": "https://www.twitter.com/_afouad"
   },
   "files": [
     "generators"
@@ -18,8 +18,8 @@
     "yeoman-generator"
   ],
   "dependencies": {
-    "yeoman-generator": "^1.0.0",
     "chalk": "^1.1.3",
+    "yeoman-generator": "^1.1.1",
     "yosay": "^1.2.1"
   },
   "devDependencies": {
